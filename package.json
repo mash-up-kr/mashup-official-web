@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "next": "9.5.3",
+    "normalize.css": "^8.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "sass": "^1.27.0",
     "styled-components": "^5.2.0",
     "styled-reset": "^4.2.3"
   }

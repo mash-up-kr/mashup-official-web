@@ -1,5 +1,11 @@
 import Head from "next/head";
+import Header from "../components/Header";
 
 export default function Home() {
-  return <div>Mash-Up Official Web</div>;
+  return (
+    <>
+      <Header />
+      Mash-Up Official Web
+    </>
+  );
 }
